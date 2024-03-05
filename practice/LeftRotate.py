@@ -1,4 +1,4 @@
-
+//Python Program to Left Rotate a NumPy array by n
 
 import numpy as np
 
